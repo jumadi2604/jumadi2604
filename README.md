@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Juan Manuel 👋
 
-<!--
-**jumadi2604/jumadi2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics student passionate about data and its real-world impact.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** R (advanced) · Python (learning)
+- **Analysis:** Regression · Hypothesis testing · LASSO · Time series
+- **Visualization:** ggplot2 · Quarto · Plotly
+- **Currently learning:** SQL · NumPy · Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+🇨🇴 [SISBÉN IV Score Prediction](https://github.com/jumadi2604/Regresion-sisben-R) — 
+Multiple regression model on real Colombian government data
+
+## 📚 Currently
+- 📖 Statistics undergraduate — Medellín, Colombia
+- 🎓 Data Analysis course — University of Tokyo (2025)
+- 🌱 Building my data portfolio one project at a time
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/juan-manuel-diaz-larrea-0626263b4)
