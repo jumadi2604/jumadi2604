@@ -14,7 +14,7 @@ Multiple regression model on real Colombian government data
 
 ## 📚 Currently
 - 📖 Statistics undergraduate — Medellín, Colombia
-- 🎓 Data Analysis course — University of Tokyo (2025)
+- 🎓 Data Analysis course — University of Tokyo (2026)
 - 🌱 Building my data portfolio one project at a time
 
 ## 📫 Connect
